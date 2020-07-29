@@ -1,0 +1,5 @@
+Copyright (C) 2020 by Dmitry Kravchenko
+to.dmitry.kravchenko [guess what] gmail.com
+
+MIT license
+free to use in any type of project, whether commercial or not
